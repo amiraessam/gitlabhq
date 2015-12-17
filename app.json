@@ -1,0 +1,10 @@
+{
+  "name": "gitlabhq",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
